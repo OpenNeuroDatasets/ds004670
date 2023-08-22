@@ -1,6 +1,6 @@
 {
     "Name": "Visual Illusion Reconstruction",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Fan Cheng",
         "Tomoyasu Horikawa",
@@ -13,7 +13,11 @@
     ],
     "Acknowledgements": "",
     "HowToAcknowledge": "",
-    "Funding": [],
+    "Funding": [
+        "Japan Society for the Promotion of Science (KAKENHI grant JP20H05705 and JP20H05954)",
+        "Japan Science and Technology Agency (CREST grant JPMJCR18A5 and JPMJCR22P3, and SPRING grant JPMJSP2110)",
+        "New Energy and In-dustrial Technology Development Organization (Project JPNP20006)"
+    ],
     "ReferencesAndLinks": [
         "Cheng, F., Horikawa, T., Majima, K., Tanaka, M., Abdelhack, M., Aoki, S. C., Hirano, J., & Kamitani, Y. (2023). Reconstructing visual illusory experiences from human brain activity. bioRxiv. https://doi.org/10.1101/2023.06.15.545037"
     ],
